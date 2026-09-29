@@ -1,37 +1,36 @@
-# Santiago Ferrán (Nomoro)
+# Ferrán Ortega (Nomoro)
 **Estudiante de Ing. en Sistemas Computacionales | Entusiasta de Seguridad Ofensiva**  
-La Paz, BCS, México | zarek.ns@gmail.com 
+
 
 ---
 
 ## 👨‍💻 Sobre Mí
-Tengo 17 años y actualmente estudio la carrera en el Instituto Tecnológico de La Paz. Mi enfoque principal está en aprender ciberseguridad, entender cómo funciona la infraestructura web y desarrollar mis propias herramientas. 
+Actualmente estudio la carrera en el Instituto Tecnológico de La Paz. Mi enfoque principal está en aprender ciberseguridad, entender cómo funciona toda la infraestructura web y aprender a romperla; Desarrollar mis propias herramientas para automatizar el proceso y no depender de herramientas de terceros. 
 
-No tengo un portafolio de proyectos terminados a nivel comercial; la mayor parte de mi GitHub son scripts, experimentos en curso y herramientas que construyo para aprender. Cuando no estoy escribiendo código, estoy resolviendo laboratorios de seguridad.
+No tengo un portafolio de proyectos terminados aún; la mayor parte de mi GitHub son scripts, experimentos en curso y herramientas que construyo para aprender. Cuando no estoy programando, estoy haciendo pentesting.
 
 ---
 
 ## 🛠️ Lo que estoy aprendiendo y usando
 
-* **Lenguajes:** Python (mi enfoque principal), Bash, PowerShell, C#, Go y algo de desarrollo web (HTML/CSS/JS).
-* **Seguridad & Práctica:** Resolviendo máquinas y laboratorios en Hack The Box, TryHackMe y PortSwigger. Familiarizándome con Burp Suite y Nmap.
-* **Entorno de trabajo:** Uso Linux (Parrot OS, Debian) y Windows. Configuro mis propios entornos con Neovim, VS Code y máquinas virtuales.
+* **Lenguajes:** Python (mi enfoque principal), C#, Go y algo de desarrollo web (HTML/CSS/JS).
+* **Seguridad & Práctica:** Resolviendo máquinas y laboratorios en Hack The Box, TryHackMe y PortSwigger. Documento los laboratorios que resuelvo y le enseño a otras personas lo que voy aprendiendo.
+* **Entorno de trabajo:** Uso Linux (Parrot OS) y Windows.
 
 ---
 
 ## 🚧 Experimentos y Proyectos en Curso
 *(Repositorios en construcción o en fase de aprendizaje)*
 
-* **Herramientas Ofensivas (Python):** Desarrollando scripts como *Askorscan* (un escáner de puertos modular) y *SpeedFramework* (pruebas de credenciales) para entender redes y automatización a bajo nivel.
-* **Desarrollo Web / GIS:** Trasteando con Python, Flask y Leaflet.js para mapear rutas de transporte público local.
-* **Proyectos Personales:** Pequeñas aplicaciones web (PWAs) enfocadas en animaciones y automatización local usando APIs.
-
+* **Herramientas Ofensivas (Python):** Desarrollando scripts como *Askorscan* (un escáner de puertos velóz) y *SpeedFramework* (Un framework de herramientas de fuerza bruta) para entender redes y automatización a bajo nivel.
 ---
 
 ## 🔗 Perfiles y Contacto
 Si quieres ver mi progreso en laboratorios o contactarme:
 
-* [Hack The Box](https://app.hackthebox.com/profile/2234974)
-* [TryHackMe](https://tryhackme.com/p/nolog)
-* [HackerOne](https://hackerone.com/notnezf)
-* [X (Twitter)](https://x.com/nezfsec)
+* [Hack The Box](https://app.hackthebox.com/users/4027818)
+* [TryHackMe](https://tryhackme.com/p/nomoro)
+* [HackerOne](https://hackerone.com/nomoro)
+* [Canal de Youtube](https://www.youtube.com/@notnomoro)
+* [X (Twitter)](https://x.com/nomorooo/)
+* [Correo de Contacto](mailto:contact.refutable883@slmail.me)
