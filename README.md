@@ -1,13 +1,13 @@
 # Ferrán Ortega (Nomoro)
-**Estudiante de Ing. en Sistemas Computacionales | Entusiasta de Seguridad Ofensiva**  
+**Estudiante de Ing. en Sistemas Computacionales | Entusiasta de Seguridad Ofensiva**
 
 
 ---
 
 ## 👨‍💻 Sobre Mí
-Actualmente estudio la carrera en el Instituto Tecnológico de La Paz. Mi enfoque principal está en aprender ciberseguridad, entender cómo funciona toda la infraestructura web y aprender a romperla; Desarrollar mis propias herramientas para automatizar el proceso y no depender de herramientas de terceros. 
+Actualmente estudio la carrera en el Instituto Tecnológico de La Paz. Mi enfoque principal está en aprender ciberseguridad, entender cómo funciona toda la infraestructura web y aprender a romperla; desarrollar mis propias herramientas para automatizar el proceso y no depender de herramientas de terceros.
 
-No tengo un portafolio de proyectos terminados aún; la mayor parte de mi GitHub son scripts, experimentos en curso y herramientas que construyo para aprender. Cuando no estoy programando, estoy haciendo pentesting.
+Cuando no estoy programando, estoy haciendo pentesting.
 
 ---
 
@@ -19,10 +19,11 @@ No tengo un portafolio de proyectos terminados aún; la mayor parte de mi GitHub
 
 ---
 
-## 🚧 Experimentos y Proyectos en Curso
-*(Repositorios en construcción o en fase de aprendizaje)*
+## Proyectos
 
-* **Herramientas Ofensivas (Python):** Desarrollando scripts como *Askorscan* (un escáner de puertos velóz) y *SpeedFramework* (Un framework de herramientas de fuerza bruta) para entender redes y automatización a bajo nivel.
+* **[YouTube Clean](https://github.com/notnomoro/youtube-clean)** — Extensión para Chrome, Edge y Firefox. Quita anuncios de YouTube, esconde Shorts y añade un modo enfoque.
+* **[Teams Scraper](https://github.com/notnomoro/teams-scraper)** — Herramienta de Python y Selenium que lee el Microsoft Teams de clase: tareas, archivos, notas y publicaciones. Se queda en tu máquina y no entrega trabajos. La guía, en español e inglés, está en [teams-scraper-wiki](https://notnomoro.github.io/teams-scraper-wiki/).
+
 ---
 
 ## 🔗 Perfiles y Contacto
